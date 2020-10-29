@@ -1,0 +1,67 @@
+.bg {
+    background: no-repeat center center fixed;
+   z-index:1;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.logo1 {
+    position: absolute;
+    font-family: Special Elite;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color:rgb(34, 94, 0);
+    z-index:99;
+    padding-bottom:48px;
+}
+.sublogo {
+    position: absolute;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 48px;
+    text-align: center;
+    color:rgb(34, 94, 0);
+    z-index:99;
+   
+}
+.contain {
+    position: absolute;
+    top: 90px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 99;
+}
+.pl
+{
+margin-bottom: 5px;
+margin-left:10px;
+}
+.log {
+    margin-left:50px;
+    margin-bottom:50px;
+}
+button {
+    border-radius: 5px;
+background-color: black;
+color:white;}
+.login{
+    height:30px;
+    margin-bottom:50px;
+}
+.logmain {
+    align-items: flex-end;
+}
+.loghead {
+    text-align: center;
+}
